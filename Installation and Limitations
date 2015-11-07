@@ -1,0 +1,7 @@
+Andrew Preuss
+CSC415 – Software Engineering
+Assignment 5
+
+	This application can be installed and run on an android device.  It was tested extensively using a Nexus 5 emulator.  The purpose of this application is to allow users to easily view frame data for various fighting games, at the moment this is limited to characters from Street Fighter 4.  Using this existing architecture more characters can be added easily.  By pressing either Frame Data or Frame Trap buttons at the start the user will be prompted with a brief description of what each button does.  By pressing the “next character” button the user can scroll through characters and then press the other two buttons in order to view frame data or a frame trap.
+
+	The application is currently limited to displaying frame data and a frame trap but frame punishing and frame linking could be added by utilizing the existing architecture(but would take a decent amount of time to implement).  I also wanted to have an image of the character to accompany their name at the top of the application, however due to my inexperience developing for android I was unable to solve a peculiar error regarding file pathing.
